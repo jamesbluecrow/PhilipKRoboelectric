@@ -1,5 +1,5 @@
 # PhilipKRoboelectric
-This is an example to see how you can structure your Android project to cover all your code with `Unit Tests`. The reason to make this project was just play with Robolectric, but finally I thought that could be a great example for new developers joining to our company, also I hope that it helps others to develop their projects well structured, tested and most important with high quality.
+This is an example to see how you can structure your Android project to cover all your code with `Unit Tests`. The reason to make this project was just play with Robolectric, but finally I thought that could be a great example for new developers joining to our company about clean, well structured and tested code. Also I hope that it helps others to develop their projects well structured, tested and most important with high quality.
 
 Libraries
 =====================
