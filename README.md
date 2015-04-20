@@ -1,4 +1,13 @@
 # PhilipKRoboelectric
+This is an example to see how you can structure your Android project to cover all your code with `Unit Tests`. The reason to make this project was just play with Robolectric, but finally I thought that could be a great example for new developers joining to our company, also I hope that this helps to others to do their project tested and most important with high quality.
+
+Libraries
+=====================
+- AndroidAnnotations: https://github.com/excilys/androidannotations
+- Picasso: https://github.com/square/picasso
+- JUnit: http://junit.org/
+- Mockito: http://mockito.org/
+- Robolectric: http://robolectric.org/
 
 License
 =====================
